@@ -1,0 +1,12 @@
+bussiness websiste
+
+url 
+http://localhost/atrading/
+backend 
+http://localhost/atrading/login
+user :khan.arbani@gmail.com
+
+pass :1234
+
+data base file at root directory 
+trading.sql
